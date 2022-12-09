@@ -16,7 +16,7 @@ This repository provides the small backend service for working in the React boot
 To start all required packages, please run `npm install`. For starting the server run `npm run bAS`.
 When successfully started, the server runs on [http://localhost:8080/](http://localhost:8080/)
 
-## Tusk
+## Task
 
 In dieser Testaufgabe muss man sich mit dem Backend (das schon da ist) verbinden. <br />
 Zwei Inputfelder und einen Button für Absenden der Daten erstellen. <br />
